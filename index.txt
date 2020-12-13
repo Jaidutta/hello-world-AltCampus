@@ -1,1 +1,1 @@
-This is to practise git Branching and Merging
+This is to practise git Branching and Merging. Merging can be a bit difficult deal with when you are starting out. There are 2 types of Merging: fast-forward merge and 3-way merge. A fast-forward merge occurs whenever there is a direct path between the current branch and branch we are trying to mergin in while a 3-way merge happens when there is no direct path.
