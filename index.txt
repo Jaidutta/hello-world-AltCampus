@@ -1,1 +1,1 @@
-This is to practise git Branching and Merging
+This is to practise git Branching and Merging: There are 2 type of merging

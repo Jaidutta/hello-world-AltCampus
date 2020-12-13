@@ -1,0 +1,1 @@
+Login requires at least two input fields like email, password
